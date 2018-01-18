@@ -73,10 +73,10 @@ An example of `urls.txt`:
 
 ```
 # GET request
-GET: http: //example.org/hoge? Param1 = 1 & param = 2
+GET: http://example.org/hoge? Param1 = 1 & param = 2
 
 # POST request (Write in the same way as get)
-POST: http: //example.org/fuga? Param 1 = 1
+POST: http://example.org/fuga? Param 1 = 1
 ```
 
 An example of `errors.txt`:
