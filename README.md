@@ -56,7 +56,7 @@ ruby main.rb param1 param2
 
 以下、Google翻訳ぶっこみ。
 
-Below, Google translation paste result
+Below, Google translation paste result.
 
 # API request exception check
 
@@ -98,7 +98,7 @@ In the case of the above setting, the following request is automatically sent.
 
 ```
 http://example.org/hoge?param1=🍣🍕🍺&param=2
-http://example.org/hoge?param1= 𠀋𡈽𡌛𡑮𡢽𠮟𡚴𡸴𣇄𣗄&param = 2
+http://example.org/hoge?param1= 𠀋𡈽𡌛𡑮𡢽𠮟𡚴𡸴𣇄𣗄&param=2
 http://example.org/hoge?param1=1&param=🍣🍕🍺
 http://example.org/hoge?param1=1&param=𠀋𡈽𡌛𡑮𡢽𠮟𡚴𡸴𣇄𣗄
 http://example.org/fuga?param1=🍣🍕🍺
